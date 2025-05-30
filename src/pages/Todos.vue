@@ -1,0 +1,13 @@
+<template>
+  <div>
+    <h1 class="text-2xl font-bold mb-6">To-Do List</h1>
+    <!-- Todos List Placeholder -->
+    <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+      <p>To-Do list will be here.</p>
+    </div>
+  </div>
+</template>
+
+<script setup>
+// Will fetch and display todos
+</script> 
