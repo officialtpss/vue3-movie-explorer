@@ -122,17 +122,15 @@ src/
 - Loading states and error handling
 - Intuitive navigation
 
-## Contributing
+### 👤 Author
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+Tech Prastish - [github.com/officialtpss](https://github.com/officialtpss)  
 
-## License
+Contact: info@tech-prastish.com
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### 📄 License
+
+This is a sample project intended for learning and demo purposes only.
 
 ## Acknowledgments
 
